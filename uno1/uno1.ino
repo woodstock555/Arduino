@@ -1,4 +1,5 @@
 #include <SoftwareSerial.h>
+//Привет!
 //SoftwareSerial mySerial(2, 3); // RX, TX
 SoftwareSerial mySerial(A0,A1); // RX, TX
 
